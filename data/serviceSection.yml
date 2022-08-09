@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Sofware engineering and system administration
+
+  Motivated self-taught programmer
+service:
+  - content: >
+      #### C++ Development 
+
+      I read some books and learned advanced programming concepts that led to the creation of some personal projects, including a game written in pure language. I received an award with it at a national olympiad.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Mobile App development (Java and Dart)
+
+      Created some projects, including a news and weather app "AtAGlance" and a notes app "MyNotes" with user authentication.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Linux system configuration and administration + scripting
+
+      Configured some computers to run as servers and installed + configured advanced distributions, like Arch and Gentoo.
+    image: images/service/branding.svg
+  - content: >
+      #### Computer maintenance and troubleshooting
+
+      Basic hardware debugging and repairing, had satisfied clients.
+    image: images/service/branding.svg
+  - content: >
+      #### Python development
+
+      Still learning, managed to create a small game and read a book
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development
+
+      Still learning, I have some experience with Hugo and static websites, managed to deploy a blog, currently learning Javascript and React.js
+    image: images/service/ui-ux.svg

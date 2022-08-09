@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hello, I am Matei
+content: >
+  # I am here for your software and hardware needs
+
+  Enjoy working in a variety of fields in computer science, a great team member and always open to learning
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/initial.jpeg
+videoThumb: images/hero/linuxpenguins.jpg
+videoURL: https://www.youtube.com/watch?v=8HEk5o9h978

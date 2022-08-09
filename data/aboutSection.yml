@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  A very passionate teenage student, hoping to have a great career as a programmer, always creative and searching for ideas and solutions
+content: >
+  ### I develop and build ultimate things.
+
+  I love to work in software engineering and mobile development, because I love
+  to solve problems and find easy and better solutions to do so. I always
+  try my best to make good software with maintainable code. I have a thirst to work as a software developer.
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-img-2.jpg

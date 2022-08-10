@@ -1,9 +1,9 @@
 ---
-title: UX Case Study for Agriculture App
+title: RetroPong
 date: 2020-08-12T12:13:40+00:00
-thumbnail: images/portfolio/portfolio-4.png
-service: UX Design
-client: Jane Doe
+thumbnail: images/portfolio/portfolio-4.jpeg
+service: Python, Pygame
+client: Personal Project, OOP in Python
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd

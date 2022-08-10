@@ -4,55 +4,46 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  My studies guided me and widened my field of view, offered me experiences and determined me to further pursue computer science
 
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
 tab1Name: Education
-tab2Name: Experiences
+tab2Name: Experience
+
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### High School: Cantemir Voda National College  
+      
+      ###### (Mathematics-informatics, intensive computer science)
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Had my first contact with computer science, qualified for the center of excellence in informatics and obtained the highest score at the olympiad in my high school. That motivated me to study at a more specialised high school.
+    time: 2018-2019
   - content: >
-      #### Master in Arts
+      #### High School: Tudor Vianu National College of Computer Science
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      ###### (Mathematics-informatics, intensive computer science)
+
+      As a very implicated student, I participated in various programming contests, especially in the 12th grade. Obtained 3rd place at a national sofware development olympiad with my C++ project and qualified for the center of excellence in informatics during 10th and 11th grade. Also created team projects in collaboration with my colleagues.
+    time: 2019-2022
   - content: >
-      #### Master in Arts
+      #### Competitive programmer
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Solved problems on various coding platforms, attended olympiads
+ 
+    time: May 2019 - February 2020
   - content: >
-      #### Master in Arts
+      #### Bachelor's: BSc, Computer Science, University of Bucharest 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      ###### (Faculty of mathematics and computer science)
+
+    time: 2022-2025
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Work for fun
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
-  - content: >
-      #### Aperture Science 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
-  - content: >
-      #### ACME Inc. 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Not having any position at the moment, but trying to boost my resume      
+    time: March 2020 - present (since I started having practical programming experience)
+  

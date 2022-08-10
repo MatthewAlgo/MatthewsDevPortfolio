@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://matthewsdevportfolio.pages.dev/</loc>
+    <loc>/</loc>
     <lastmod>2020-08-12T18:19:35+06:00</lastmod>
   </url><url>
-    <loc>https://matthewsdevportfolio.pages.dev/portfolio/my-notes/</loc>
+    <loc>/portfolio/my-notes/</loc>
     <lastmod>2020-08-12T18:19:35+06:00</lastmod>
   </url><url>
-    <loc>https://matthewsdevportfolio.pages.dev/portfolio/</loc>
+    <loc>/portfolio/</loc>
     <lastmod>2020-08-12T18:19:35+06:00</lastmod>
   </url><url>
-    <loc>https://matthewsdevportfolio.pages.dev/portfolio/retro-pong/</loc>
+    <loc>/portfolio/retro-pong/</loc>
     <lastmod>2020-08-12T12:13:40+00:00</lastmod>
   </url><url>
-    <loc>https://matthewsdevportfolio.pages.dev/portfolio/at-a-glance/</loc>
+    <loc>/portfolio/at-a-glance/</loc>
     <lastmod>2020-08-12T18:07:16+06:00</lastmod>
   </url><url>
-    <loc>https://matthewsdevportfolio.pages.dev/portfolio/alien-invaders/</loc>
+    <loc>/portfolio/alien-invaders/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>https://matthewsdevportfolio.pages.dev/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://matthewsdevportfolio.pages.dev/contact/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>https://matthewsdevportfolio.pages.dev/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

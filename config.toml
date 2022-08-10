@@ -1,4 +1,5 @@
-baseURL = "https://matthewsdevportfolio.pages.dev/"
+relativeURLs = true
+baseURL = "/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
